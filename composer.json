@@ -1,0 +1,17 @@
+{
+    "name": "luccas-arruda/buscador-cursos",
+    "description": "buscador de cursos - alura",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "LuccasArruda\\BuscadorCursos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Luccas Arruda",
+            "email": "luccas.arruda@somasolucoes.com"
+        }
+    ],
+    "require": {}
+}
