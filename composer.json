@@ -13,5 +13,8 @@
             "email": "luccas.arruda@somasolucoes.com"
         }
     ],
-    "require": {}
+    "require": {
+        "guzzlehttp/guzzle": "^7.8",
+        "symfony/dom-crawler": "^7.0"
+    }
 }
