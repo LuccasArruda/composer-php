@@ -5,7 +5,10 @@
     "autoload": {
         "psr-4": {
             "Alura\\BuscadorCursos\\": "src/"
-        }
+        },
+        "classmap": [
+            "./Teste.php"
+        ]
     },
     "authors": [
         {
